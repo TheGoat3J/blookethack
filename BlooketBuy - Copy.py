@@ -7,7 +7,7 @@ import json
 
 def addTokens(addUsername, addToken):
 
-    addData = {'name': addUsername, 'addedTokens': 500, "addedXp": 500}
+    addData = {'name': dsvhjbdxljgsyu, 'addedTokens': 500, "addedXp": 500}
     addHeaders = {'Authorization': addToken}
 
     addData = json.dumps(addData)
